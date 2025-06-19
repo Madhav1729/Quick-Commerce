@@ -1,0 +1,11 @@
+vehicle_operator_id,Name,PAN,Aadhar,City,Address,Rating
+1,vehicle_operator_1,ABCDE1427F,7830 1594 4360,Aligarh,Address_1,4.89
+2,vehicle_operator_2,ABCDE9141F,7914 2180 5687,Bareilly,Address_2,1.89
+3,vehicle_operator_3,ABCDE2930F,7298 7290 7609,Allahabad,Address_3,1.74
+4,vehicle_operator_4,ABCDE5927F,1904 5018 6849,Bareilly,Address_4,1.71
+5,vehicle_operator_5,ABCDE3056F,5002 8753 3383,Akola,Address_5,2.54
+6,vehicle_operator_6,ABCDE2040F,6564 8340 9320,Bamanpuri,Address_6,4.1
+7,vehicle_operator_7,ABCDE6647F,1497 4512 4819,Agra,Address_7,1.83
+8,vehicle_operator_8,ABCDE9330F,4484 1742 8670,Baramula,Address_8,1.74
+9,vehicle_operator_9,ABCDE1200F,9836 4107 1223,Alappuzha,Address_9,4.77
+10,vehicle_operator_10,ABCDE2931F,8645 9349 9915,Bamanpuri,Address_10,1.41

@@ -1,0 +1,11 @@
+vehicle_operator_id,Name,PAN,Aadhar,City,Address,Rating
+1,vehicle_operator_1,ABCDE2135F,7469 9178 2806,Alappuzha,Address_1,3.33
+2,vehicle_operator_2,ABCDE1696F,9345 4735 7645,Alwar,Address_2,1.03
+3,vehicle_operator_3,ABCDE4058F,9730 2492 2449,Agra,Address_3,2.45
+4,vehicle_operator_4,ABCDE6236F,1200 8125 4042,Ahmedabad,Address_4,3.65
+5,vehicle_operator_5,ABCDE9835F,4512 1785 7147,Aligarh,Address_5,3.3
+6,vehicle_operator_6,ABCDE6041F,7671 5719 2386,Barddhaman,Address_6,4.75
+7,vehicle_operator_7,ABCDE3003F,3557 5904 6167,Adilabad,Address_7,1.88
+8,vehicle_operator_8,ABCDE7772F,6476 7299 3755,Amaravati,Address_8,1.13
+9,vehicle_operator_9,ABCDE3455F,6868 6362 4615,Amritsar,Address_9,3.14
+10,vehicle_operator_10,ABCDE1597F,6183 9105 6887,Asansol,Address_10,3.99

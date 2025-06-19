@@ -1,0 +1,11 @@
+vehicle_owner_Id,Name,PAN,Aadhar,City,Address,Rating
+1,vehicle_owner_1,ABCDE3556F,8454 7963 8973,Aurangabad,Address_1,1.5
+2,vehicle_owner_2,ABCDE1522F,1453 5751 9077,Baramula,Address_2,2.43
+3,vehicle_owner_3,ABCDE6780F,2074 8445 3627,Akola,Address_3,2.86
+4,vehicle_owner_4,ABCDE9571F,7683 5502 1565,Alwar,Address_4,2.34
+5,vehicle_owner_5,ABCDE7089F,2947 6787 7031,Alwar,Address_5,3.95
+6,vehicle_owner_6,ABCDE4858F,7431 8953 8320,Barddhaman,Address_6,4.58
+7,vehicle_owner_7,ABCDE9237F,8242 9412 5648,Bareilly,Address_7,2.67
+8,vehicle_owner_8,ABCDE6770F,1231 2742 4043,Ajmer,Address_8,4.71
+9,vehicle_owner_9,ABCDE3342F,8321 7851 9811,Ahmadnagar,Address_9,2.54
+10,vehicle_owner_10,ABCDE3558F,2598 5178 8928,Ahmedabad,Address_10,4.34

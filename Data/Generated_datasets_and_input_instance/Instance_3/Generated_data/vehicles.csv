@@ -1,0 +1,501 @@
+vehicle_id,owner,driver,vehicle_operator,vehicle_type_id,number_plate,fuel_type,vehicle_status
+1,Owner_1,Driver_1,2,4,AB-34-AB-4956,Diesel,Under Maintenance
+2,Owner_2,Driver_2,4,3,AB-31-AB-1154,Diesel,In Use
+3,Owner_3,Driver_3,2,3,AB-95-AB-7343,Electric,In Use
+4,Owner_4,Driver_4,5,3,AB-97-AB-4774,Electric,Available
+5,Owner_5,Driver_5,5,3,AB-69-AB-6094,Diesel,Under Maintenance
+6,Owner_6,Driver_6,2,5,AB-96-AB-7724,Diesel,In Use
+7,Owner_7,Driver_7,7,5,AB-19-AB-1190,Petrol,In Use
+8,Owner_8,Driver_8,2,2,AB-21-AB-7560,Diesel,Available
+9,Owner_9,Driver_9,7,4,AB-24-AB-9595,Diesel,In Use
+10,Owner_10,Driver_10,8,4,AB-25-AB-3637,Diesel,Available
+11,Owner_11,Driver_11,3,3,AB-30-AB-1344,Electric,Available
+12,Owner_12,Driver_12,6,4,AB-33-AB-6002,Diesel,In Use
+13,Owner_13,Driver_13,7,4,AB-28-AB-2115,Electric,Available
+14,Owner_14,Driver_14,7,1,AB-24-AB-8934,Electric,In Use
+15,Owner_15,Driver_15,7,5,AB-78-AB-6882,Diesel,Under Maintenance
+16,Owner_16,Driver_16,6,4,AB-45-AB-3774,Electric,In Use
+17,Owner_17,Driver_17,10,3,AB-13-AB-7468,Diesel,Under Maintenance
+18,Owner_18,Driver_18,6,4,AB-73-AB-2712,Electric,Under Maintenance
+19,Owner_19,Driver_19,1,4,AB-68-AB-6659,Petrol,Available
+20,Owner_20,Driver_20,2,4,AB-17-AB-7766,Diesel,Available
+21,Owner_21,Driver_21,6,3,AB-14-AB-8848,Electric,Available
+22,Owner_22,Driver_22,6,5,AB-10-AB-6654,Electric,Under Maintenance
+23,Owner_23,Driver_23,8,2,AB-40-AB-5155,Diesel,In Use
+24,Owner_24,Driver_24,4,3,AB-95-AB-8591,Diesel,In Use
+25,Owner_25,Driver_25,1,5,AB-43-AB-9853,Petrol,Under Maintenance
+26,Owner_26,Driver_26,1,5,AB-74-AB-2711,Petrol,Available
+27,Owner_27,Driver_27,7,5,AB-30-AB-7337,Diesel,Under Maintenance
+28,Owner_28,Driver_28,2,1,AB-84-AB-8169,Electric,In Use
+29,Owner_29,Driver_29,2,2,AB-33-AB-7370,Petrol,Available
+30,Owner_30,Driver_30,5,1,AB-53-AB-6037,Electric,Available
+31,Owner_31,Driver_31,3,4,AB-51-AB-4169,Petrol,In Use
+32,Owner_32,Driver_32,6,4,AB-96-AB-6799,Diesel,In Use
+33,Owner_33,Driver_33,8,3,AB-63-AB-5394,Electric,In Use
+34,Owner_34,Driver_34,9,5,AB-75-AB-1079,Diesel,In Use
+35,Owner_35,Driver_35,2,3,AB-20-AB-8494,Electric,Under Maintenance
+36,Owner_36,Driver_36,1,5,AB-82-AB-6957,Diesel,Available
+37,Owner_37,Driver_37,10,3,AB-76-AB-7886,Diesel,Under Maintenance
+38,Owner_38,Driver_38,8,2,AB-54-AB-1103,Electric,Available
+39,Owner_39,Driver_39,4,1,AB-13-AB-4891,Electric,Available
+40,Owner_40,Driver_40,8,3,AB-40-AB-7651,Petrol,Under Maintenance
+41,Owner_41,Driver_41,6,5,AB-26-AB-4937,Diesel,Under Maintenance
+42,Owner_42,Driver_42,8,4,AB-35-AB-7895,Diesel,Available
+43,Owner_43,Driver_43,8,3,AB-36-AB-8261,Electric,Available
+44,Owner_44,Driver_44,8,4,AB-60-AB-2811,Electric,In Use
+45,Owner_45,Driver_45,5,5,AB-27-AB-1007,Electric,Under Maintenance
+46,Owner_46,Driver_46,8,1,AB-95-AB-3792,Diesel,Under Maintenance
+47,Owner_47,Driver_47,3,5,AB-57-AB-8752,Petrol,Under Maintenance
+48,Owner_48,Driver_48,6,4,AB-45-AB-9259,Electric,In Use
+49,Owner_49,Driver_49,1,2,AB-26-AB-8565,Electric,Available
+50,Owner_50,Driver_50,5,5,AB-55-AB-5984,Petrol,Under Maintenance
+51,Owner_51,Driver_51,4,1,AB-48-AB-3647,Diesel,In Use
+52,Owner_52,Driver_52,1,2,AB-86-AB-1537,Electric,Available
+53,Owner_53,Driver_53,6,2,AB-56-AB-6466,Electric,Under Maintenance
+54,Owner_54,Driver_54,9,5,AB-32-AB-4186,Electric,Under Maintenance
+55,Owner_55,Driver_55,3,3,AB-69-AB-2848,Petrol,Available
+56,Owner_56,Driver_56,7,3,AB-79-AB-3889,Diesel,Under Maintenance
+57,Owner_57,Driver_57,8,2,AB-33-AB-1945,Diesel,In Use
+58,Owner_58,Driver_58,5,4,AB-97-AB-1668,Diesel,Available
+59,Owner_59,Driver_59,10,2,AB-41-AB-7680,Electric,Available
+60,Owner_60,Driver_60,1,5,AB-93-AB-3266,Petrol,Under Maintenance
+61,Owner_61,Driver_61,8,4,AB-13-AB-9542,Electric,In Use
+62,Owner_62,Driver_62,4,2,AB-44-AB-6056,Electric,Under Maintenance
+63,Owner_63,Driver_63,2,4,AB-96-AB-7916,Petrol,Available
+64,Owner_64,Driver_64,10,1,AB-96-AB-4704,Diesel,In Use
+65,Owner_65,Driver_65,5,2,AB-63-AB-6285,Petrol,Available
+66,Owner_66,Driver_66,7,3,AB-93-AB-6798,Diesel,In Use
+67,Owner_67,Driver_67,6,4,AB-84-AB-5896,Electric,In Use
+68,Owner_68,Driver_68,7,4,AB-91-AB-7218,Diesel,Under Maintenance
+69,Owner_69,Driver_69,5,5,AB-56-AB-7234,Petrol,Under Maintenance
+70,Owner_70,Driver_70,10,1,AB-35-AB-7299,Diesel,Under Maintenance
+71,Owner_71,Driver_71,6,4,AB-51-AB-9815,Petrol,Available
+72,Owner_72,Driver_72,7,2,AB-49-AB-5728,Petrol,Available
+73,Owner_73,Driver_73,8,3,AB-52-AB-6446,Electric,In Use
+74,Owner_74,Driver_74,2,2,AB-98-AB-4778,Petrol,Available
+75,Owner_75,Driver_75,4,4,AB-21-AB-8855,Diesel,In Use
+76,Owner_76,Driver_76,7,3,AB-85-AB-4119,Electric,In Use
+77,Owner_77,Driver_77,3,5,AB-94-AB-7461,Electric,Under Maintenance
+78,Owner_78,Driver_78,2,1,AB-35-AB-6901,Petrol,In Use
+79,Owner_79,Driver_79,9,4,AB-26-AB-9702,Petrol,In Use
+80,Owner_80,Driver_80,2,5,AB-39-AB-4573,Electric,Available
+81,Owner_81,Driver_81,3,1,AB-72-AB-8400,Diesel,In Use
+82,Owner_82,Driver_82,7,1,AB-33-AB-5558,Petrol,In Use
+83,Owner_83,Driver_83,5,3,AB-62-AB-1662,Diesel,Available
+84,Owner_84,Driver_84,7,4,AB-28-AB-9428,Petrol,In Use
+85,Owner_85,Driver_85,8,5,AB-14-AB-2974,Diesel,Under Maintenance
+86,Owner_86,Driver_86,6,5,AB-37-AB-7520,Petrol,Available
+87,Owner_87,Driver_87,1,2,AB-62-AB-6846,Petrol,Under Maintenance
+88,Owner_88,Driver_88,7,5,AB-59-AB-9772,Electric,In Use
+89,Owner_89,Driver_89,4,1,AB-62-AB-2282,Electric,Under Maintenance
+90,Owner_90,Driver_90,8,5,AB-75-AB-5841,Electric,In Use
+91,Owner_91,Driver_91,1,4,AB-67-AB-8830,Petrol,In Use
+92,Owner_92,Driver_92,8,1,AB-98-AB-4411,Diesel,In Use
+93,Owner_93,Driver_93,8,4,AB-73-AB-6968,Diesel,Under Maintenance
+94,Owner_94,Driver_94,9,4,AB-55-AB-7866,Electric,Under Maintenance
+95,Owner_95,Driver_95,8,2,AB-21-AB-9159,Diesel,In Use
+96,Owner_96,Driver_96,2,2,AB-97-AB-7048,Diesel,Under Maintenance
+97,Owner_97,Driver_97,4,4,AB-36-AB-7160,Petrol,In Use
+98,Owner_98,Driver_98,3,5,AB-41-AB-1210,Diesel,In Use
+99,Owner_99,Driver_99,8,4,AB-60-AB-6936,Electric,Under Maintenance
+100,Owner_100,Driver_100,10,2,AB-20-AB-1958,Petrol,Available
+101,Owner_101,Driver_101,6,4,AB-70-AB-1762,Petrol,Available
+102,Owner_102,Driver_102,4,2,AB-22-AB-2169,Electric,Under Maintenance
+103,Owner_103,Driver_103,8,2,AB-77-AB-1676,Electric,Available
+104,Owner_104,Driver_104,9,2,AB-79-AB-3036,Electric,In Use
+105,Owner_105,Driver_105,2,3,AB-61-AB-6219,Diesel,Under Maintenance
+106,Owner_106,Driver_106,7,2,AB-27-AB-8216,Electric,Under Maintenance
+107,Owner_107,Driver_107,3,1,AB-36-AB-2782,Electric,Under Maintenance
+108,Owner_108,Driver_108,8,5,AB-77-AB-2219,Petrol,In Use
+109,Owner_109,Driver_109,5,2,AB-40-AB-7124,Petrol,In Use
+110,Owner_110,Driver_110,3,2,AB-79-AB-9284,Diesel,Available
+111,Owner_111,Driver_111,8,3,AB-72-AB-2511,Diesel,In Use
+112,Owner_112,Driver_112,3,4,AB-46-AB-9724,Diesel,Available
+113,Owner_113,Driver_113,9,1,AB-73-AB-8542,Electric,Under Maintenance
+114,Owner_114,Driver_114,2,1,AB-95-AB-7068,Petrol,Under Maintenance
+115,Owner_115,Driver_115,2,5,AB-98-AB-8787,Petrol,Available
+116,Owner_116,Driver_116,7,4,AB-53-AB-5476,Electric,Under Maintenance
+117,Owner_117,Driver_117,5,4,AB-49-AB-2077,Petrol,Available
+118,Owner_118,Driver_118,3,1,AB-13-AB-1762,Electric,Available
+119,Owner_119,Driver_119,9,1,AB-94-AB-5628,Diesel,Under Maintenance
+120,Owner_120,Driver_120,9,1,AB-71-AB-5486,Petrol,Available
+121,Owner_121,Driver_121,4,4,AB-48-AB-9303,Diesel,In Use
+122,Owner_122,Driver_122,2,3,AB-60-AB-3014,Petrol,Under Maintenance
+123,Owner_123,Driver_123,10,3,AB-71-AB-8931,Electric,Under Maintenance
+124,Owner_124,Driver_124,5,5,AB-20-AB-6817,Electric,In Use
+125,Owner_125,Driver_125,2,4,AB-14-AB-8915,Diesel,Under Maintenance
+126,Owner_126,Driver_126,6,2,AB-57-AB-1081,Petrol,Under Maintenance
+127,Owner_127,Driver_127,5,3,AB-33-AB-3883,Petrol,Under Maintenance
+128,Owner_128,Driver_128,1,1,AB-94-AB-9993,Petrol,Available
+129,Owner_129,Driver_129,8,1,AB-48-AB-1620,Diesel,Under Maintenance
+130,Owner_130,Driver_130,9,5,AB-50-AB-1082,Petrol,Under Maintenance
+131,Owner_131,Driver_131,6,3,AB-99-AB-3522,Petrol,Under Maintenance
+132,Owner_132,Driver_132,7,2,AB-37-AB-5741,Petrol,In Use
+133,Owner_133,Driver_133,9,3,AB-46-AB-8927,Diesel,In Use
+134,Owner_134,Driver_134,8,5,AB-96-AB-4419,Diesel,In Use
+135,Owner_135,Driver_135,4,5,AB-95-AB-2572,Petrol,Available
+136,Owner_136,Driver_136,6,5,AB-49-AB-7587,Petrol,In Use
+137,Owner_137,Driver_137,4,5,AB-40-AB-4321,Electric,In Use
+138,Owner_138,Driver_138,9,5,AB-81-AB-2492,Diesel,Available
+139,Owner_139,Driver_139,4,4,AB-48-AB-1969,Petrol,Available
+140,Owner_140,Driver_140,3,1,AB-87-AB-6402,Petrol,In Use
+141,Owner_141,Driver_141,1,3,AB-55-AB-6621,Diesel,Available
+142,Owner_142,Driver_142,3,1,AB-53-AB-3850,Electric,Under Maintenance
+143,Owner_143,Driver_143,4,2,AB-97-AB-8279,Diesel,In Use
+144,Owner_144,Driver_144,9,4,AB-83-AB-9023,Petrol,Available
+145,Owner_145,Driver_145,1,4,AB-44-AB-6234,Electric,In Use
+146,Owner_146,Driver_146,1,5,AB-35-AB-8185,Diesel,In Use
+147,Owner_147,Driver_147,4,5,AB-70-AB-4636,Electric,In Use
+148,Owner_148,Driver_148,6,2,AB-87-AB-4034,Electric,Under Maintenance
+149,Owner_149,Driver_149,10,4,AB-12-AB-8370,Diesel,Under Maintenance
+150,Owner_150,Driver_150,5,5,AB-57-AB-5695,Electric,In Use
+151,Owner_151,Driver_151,3,1,AB-72-AB-1019,Electric,Available
+152,Owner_152,Driver_152,2,5,AB-83-AB-2633,Electric,In Use
+153,Owner_153,Driver_153,3,2,AB-62-AB-2385,Petrol,Available
+154,Owner_154,Driver_154,8,3,AB-75-AB-1199,Diesel,Available
+155,Owner_155,Driver_155,4,1,AB-56-AB-6716,Diesel,In Use
+156,Owner_156,Driver_156,2,5,AB-33-AB-6597,Petrol,Available
+157,Owner_157,Driver_157,2,1,AB-17-AB-8802,Diesel,In Use
+158,Owner_158,Driver_158,8,2,AB-29-AB-6882,Electric,Under Maintenance
+159,Owner_159,Driver_159,1,4,AB-42-AB-3950,Diesel,Available
+160,Owner_160,Driver_160,9,5,AB-82-AB-9120,Electric,In Use
+161,Owner_161,Driver_161,8,4,AB-91-AB-7750,Petrol,Under Maintenance
+162,Owner_162,Driver_162,4,3,AB-19-AB-1503,Diesel,Available
+163,Owner_163,Driver_163,1,4,AB-54-AB-2221,Diesel,Under Maintenance
+164,Owner_164,Driver_164,4,3,AB-67-AB-5097,Petrol,Under Maintenance
+165,Owner_165,Driver_165,10,1,AB-19-AB-3469,Petrol,Under Maintenance
+166,Owner_166,Driver_166,8,1,AB-73-AB-5266,Electric,Available
+167,Owner_167,Driver_167,6,1,AB-13-AB-2186,Diesel,Available
+168,Owner_168,Driver_168,4,5,AB-15-AB-7024,Electric,In Use
+169,Owner_169,Driver_169,7,3,AB-49-AB-1862,Electric,Under Maintenance
+170,Owner_170,Driver_170,1,5,AB-82-AB-3577,Petrol,Available
+171,Owner_171,Driver_171,3,3,AB-21-AB-4391,Diesel,In Use
+172,Owner_172,Driver_172,3,1,AB-81-AB-2179,Petrol,Under Maintenance
+173,Owner_173,Driver_173,4,2,AB-14-AB-9843,Diesel,Available
+174,Owner_174,Driver_174,4,1,AB-82-AB-6092,Diesel,In Use
+175,Owner_175,Driver_175,10,5,AB-30-AB-5512,Diesel,In Use
+176,Owner_176,Driver_176,9,4,AB-72-AB-7098,Electric,Available
+177,Owner_177,Driver_177,2,5,AB-43-AB-5361,Electric,In Use
+178,Owner_178,Driver_178,7,3,AB-79-AB-4020,Diesel,In Use
+179,Owner_179,Driver_179,6,5,AB-28-AB-5621,Petrol,Available
+180,Owner_180,Driver_180,10,3,AB-42-AB-5451,Petrol,Under Maintenance
+181,Owner_181,Driver_181,10,3,AB-46-AB-9605,Diesel,In Use
+182,Owner_182,Driver_182,3,3,AB-21-AB-1705,Diesel,Available
+183,Owner_183,Driver_183,2,2,AB-13-AB-8886,Petrol,Under Maintenance
+184,Owner_184,Driver_184,7,2,AB-70-AB-6987,Diesel,Under Maintenance
+185,Owner_185,Driver_185,9,1,AB-63-AB-1828,Petrol,Under Maintenance
+186,Owner_186,Driver_186,2,2,AB-17-AB-9070,Electric,Available
+187,Owner_187,Driver_187,6,5,AB-84-AB-6938,Diesel,Under Maintenance
+188,Owner_188,Driver_188,4,4,AB-47-AB-4149,Diesel,Available
+189,Owner_189,Driver_189,8,2,AB-77-AB-2067,Petrol,Under Maintenance
+190,Owner_190,Driver_190,2,4,AB-28-AB-9525,Electric,Available
+191,Owner_191,Driver_191,5,5,AB-22-AB-8979,Diesel,Under Maintenance
+192,Owner_192,Driver_192,5,3,AB-42-AB-9443,Electric,Under Maintenance
+193,Owner_193,Driver_193,3,3,AB-78-AB-7712,Diesel,Available
+194,Owner_194,Driver_194,1,4,AB-38-AB-9863,Diesel,Under Maintenance
+195,Owner_195,Driver_195,5,2,AB-20-AB-2877,Petrol,In Use
+196,Owner_196,Driver_196,3,5,AB-80-AB-6768,Electric,In Use
+197,Owner_197,Driver_197,2,2,AB-52-AB-9938,Diesel,Available
+198,Owner_198,Driver_198,3,5,AB-40-AB-5706,Diesel,Available
+199,Owner_199,Driver_199,7,2,AB-32-AB-7370,Diesel,Available
+200,Owner_200,Driver_200,3,4,AB-22-AB-6283,Electric,Under Maintenance
+201,Owner_201,Driver_201,4,1,AB-44-AB-9975,Electric,In Use
+202,Owner_202,Driver_202,3,5,AB-87-AB-6845,Electric,In Use
+203,Owner_203,Driver_203,6,2,AB-10-AB-3680,Electric,In Use
+204,Owner_204,Driver_204,6,2,AB-23-AB-6819,Electric,Available
+205,Owner_205,Driver_205,7,4,AB-93-AB-8845,Petrol,Available
+206,Owner_206,Driver_206,6,3,AB-53-AB-1008,Diesel,Under Maintenance
+207,Owner_207,Driver_207,3,2,AB-70-AB-5962,Electric,In Use
+208,Owner_208,Driver_208,10,4,AB-84-AB-5911,Diesel,In Use
+209,Owner_209,Driver_209,8,2,AB-90-AB-6621,Petrol,In Use
+210,Owner_210,Driver_210,4,1,AB-14-AB-9137,Electric,In Use
+211,Owner_211,Driver_211,1,4,AB-29-AB-5610,Electric,Available
+212,Owner_212,Driver_212,7,3,AB-43-AB-6582,Diesel,Available
+213,Owner_213,Driver_213,8,3,AB-17-AB-8509,Diesel,Available
+214,Owner_214,Driver_214,6,5,AB-99-AB-6245,Electric,Available
+215,Owner_215,Driver_215,3,5,AB-96-AB-7149,Electric,Under Maintenance
+216,Owner_216,Driver_216,8,1,AB-38-AB-3658,Diesel,Under Maintenance
+217,Owner_217,Driver_217,8,2,AB-79-AB-7627,Diesel,Available
+218,Owner_218,Driver_218,9,2,AB-60-AB-7808,Electric,Available
+219,Owner_219,Driver_219,4,3,AB-67-AB-1190,Diesel,Available
+220,Owner_220,Driver_220,10,1,AB-40-AB-9906,Diesel,Under Maintenance
+221,Owner_221,Driver_221,2,5,AB-26-AB-2808,Diesel,In Use
+222,Owner_222,Driver_222,5,4,AB-75-AB-7544,Diesel,Under Maintenance
+223,Owner_223,Driver_223,8,5,AB-51-AB-4207,Diesel,Available
+224,Owner_224,Driver_224,8,1,AB-38-AB-5682,Diesel,Under Maintenance
+225,Owner_225,Driver_225,1,4,AB-38-AB-7294,Diesel,Under Maintenance
+226,Owner_226,Driver_226,6,4,AB-93-AB-1302,Petrol,Under Maintenance
+227,Owner_227,Driver_227,6,1,AB-30-AB-5253,Electric,Available
+228,Owner_228,Driver_228,10,2,AB-95-AB-1644,Petrol,Under Maintenance
+229,Owner_229,Driver_229,6,1,AB-20-AB-7051,Diesel,In Use
+230,Owner_230,Driver_230,6,2,AB-96-AB-5554,Petrol,In Use
+231,Owner_231,Driver_231,2,1,AB-99-AB-2205,Electric,Available
+232,Owner_232,Driver_232,10,1,AB-72-AB-6652,Diesel,In Use
+233,Owner_233,Driver_233,10,2,AB-49-AB-7182,Petrol,Available
+234,Owner_234,Driver_234,6,2,AB-80-AB-8178,Petrol,In Use
+235,Owner_235,Driver_235,1,1,AB-25-AB-3605,Electric,Available
+236,Owner_236,Driver_236,4,1,AB-70-AB-9340,Petrol,In Use
+237,Owner_237,Driver_237,3,2,AB-25-AB-5449,Electric,In Use
+238,Owner_238,Driver_238,7,3,AB-32-AB-5453,Diesel,Available
+239,Owner_239,Driver_239,9,5,AB-85-AB-2610,Diesel,Under Maintenance
+240,Owner_240,Driver_240,7,5,AB-10-AB-9363,Electric,In Use
+241,Owner_241,Driver_241,2,3,AB-44-AB-7848,Diesel,In Use
+242,Owner_242,Driver_242,6,2,AB-44-AB-9145,Petrol,In Use
+243,Owner_243,Driver_243,1,3,AB-17-AB-7296,Petrol,Under Maintenance
+244,Owner_244,Driver_244,5,4,AB-64-AB-8992,Diesel,Available
+245,Owner_245,Driver_245,7,4,AB-90-AB-3647,Petrol,Available
+246,Owner_246,Driver_246,9,1,AB-58-AB-7610,Electric,Available
+247,Owner_247,Driver_247,2,3,AB-21-AB-1428,Diesel,In Use
+248,Owner_248,Driver_248,5,1,AB-60-AB-4287,Diesel,Under Maintenance
+249,Owner_249,Driver_249,4,5,AB-18-AB-8959,Petrol,In Use
+250,Owner_250,Driver_250,6,3,AB-29-AB-8781,Diesel,Under Maintenance
+251,Owner_251,Driver_251,8,4,AB-38-AB-2194,Petrol,Available
+252,Owner_252,Driver_252,3,3,AB-39-AB-8629,Petrol,In Use
+253,Owner_253,Driver_253,5,5,AB-83-AB-2779,Diesel,In Use
+254,Owner_254,Driver_254,8,3,AB-90-AB-6517,Petrol,Under Maintenance
+255,Owner_255,Driver_255,7,2,AB-13-AB-9534,Diesel,In Use
+256,Owner_256,Driver_256,9,2,AB-93-AB-5620,Electric,Under Maintenance
+257,Owner_257,Driver_257,3,2,AB-90-AB-3253,Electric,In Use
+258,Owner_258,Driver_258,9,4,AB-66-AB-1333,Diesel,In Use
+259,Owner_259,Driver_259,7,3,AB-99-AB-9214,Diesel,Available
+260,Owner_260,Driver_260,4,1,AB-28-AB-2834,Electric,In Use
+261,Owner_261,Driver_261,4,4,AB-39-AB-9330,Diesel,Under Maintenance
+262,Owner_262,Driver_262,8,4,AB-28-AB-7014,Electric,Under Maintenance
+263,Owner_263,Driver_263,9,2,AB-94-AB-8368,Diesel,In Use
+264,Owner_264,Driver_264,10,2,AB-72-AB-2254,Electric,Under Maintenance
+265,Owner_265,Driver_265,9,4,AB-66-AB-9827,Electric,Available
+266,Owner_266,Driver_266,8,2,AB-98-AB-4313,Electric,Under Maintenance
+267,Owner_267,Driver_267,2,2,AB-70-AB-1096,Diesel,Available
+268,Owner_268,Driver_268,6,1,AB-39-AB-2776,Diesel,In Use
+269,Owner_269,Driver_269,4,4,AB-94-AB-9861,Diesel,In Use
+270,Owner_270,Driver_270,5,4,AB-58-AB-6876,Electric,Available
+271,Owner_271,Driver_271,3,4,AB-56-AB-4463,Diesel,Available
+272,Owner_272,Driver_272,8,2,AB-93-AB-4652,Diesel,Under Maintenance
+273,Owner_273,Driver_273,5,1,AB-89-AB-9369,Electric,Under Maintenance
+274,Owner_274,Driver_274,2,4,AB-90-AB-3666,Diesel,In Use
+275,Owner_275,Driver_275,5,4,AB-78-AB-9679,Petrol,In Use
+276,Owner_276,Driver_276,2,1,AB-56-AB-2275,Diesel,In Use
+277,Owner_277,Driver_277,1,5,AB-88-AB-2116,Diesel,In Use
+278,Owner_278,Driver_278,2,4,AB-67-AB-5549,Electric,In Use
+279,Owner_279,Driver_279,5,5,AB-65-AB-5957,Petrol,Under Maintenance
+280,Owner_280,Driver_280,8,4,AB-86-AB-1456,Diesel,Available
+281,Owner_281,Driver_281,2,4,AB-49-AB-8646,Diesel,Under Maintenance
+282,Owner_282,Driver_282,2,3,AB-85-AB-7559,Petrol,Available
+283,Owner_283,Driver_283,4,5,AB-71-AB-4963,Electric,Available
+284,Owner_284,Driver_284,1,3,AB-68-AB-7953,Petrol,Under Maintenance
+285,Owner_285,Driver_285,5,5,AB-28-AB-1007,Electric,Under Maintenance
+286,Owner_286,Driver_286,9,2,AB-67-AB-5172,Electric,In Use
+287,Owner_287,Driver_287,10,3,AB-71-AB-9403,Electric,Under Maintenance
+288,Owner_288,Driver_288,2,1,AB-76-AB-5580,Diesel,Available
+289,Owner_289,Driver_289,5,5,AB-22-AB-5745,Electric,Under Maintenance
+290,Owner_290,Driver_290,2,4,AB-89-AB-1069,Electric,In Use
+291,Owner_291,Driver_291,9,3,AB-44-AB-1085,Electric,Available
+292,Owner_292,Driver_292,1,3,AB-90-AB-3757,Petrol,Under Maintenance
+293,Owner_293,Driver_293,4,2,AB-22-AB-9751,Diesel,Available
+294,Owner_294,Driver_294,4,2,AB-91-AB-3651,Diesel,Available
+295,Owner_295,Driver_295,2,2,AB-35-AB-4761,Electric,In Use
+296,Owner_296,Driver_296,9,1,AB-23-AB-7805,Petrol,Under Maintenance
+297,Owner_297,Driver_297,9,3,AB-38-AB-5756,Petrol,Under Maintenance
+298,Owner_298,Driver_298,3,2,AB-15-AB-1779,Diesel,Under Maintenance
+299,Owner_299,Driver_299,1,4,AB-26-AB-2048,Electric,Under Maintenance
+300,Owner_300,Driver_300,6,5,AB-33-AB-5208,Petrol,Available
+301,Owner_301,Driver_301,10,4,AB-50-AB-6782,Electric,Under Maintenance
+302,Owner_302,Driver_302,1,5,AB-71-AB-5074,Petrol,In Use
+303,Owner_303,Driver_303,9,5,AB-54-AB-5564,Electric,Under Maintenance
+304,Owner_304,Driver_304,7,5,AB-98-AB-4462,Diesel,Under Maintenance
+305,Owner_305,Driver_305,2,2,AB-30-AB-2321,Petrol,In Use
+306,Owner_306,Driver_306,9,2,AB-12-AB-4661,Diesel,In Use
+307,Owner_307,Driver_307,10,2,AB-30-AB-7108,Diesel,Available
+308,Owner_308,Driver_308,3,1,AB-89-AB-8368,Petrol,Under Maintenance
+309,Owner_309,Driver_309,1,1,AB-27-AB-9123,Petrol,Available
+310,Owner_310,Driver_310,8,2,AB-81-AB-6831,Petrol,Under Maintenance
+311,Owner_311,Driver_311,9,5,AB-12-AB-3030,Electric,In Use
+312,Owner_312,Driver_312,9,3,AB-96-AB-7697,Diesel,Available
+313,Owner_313,Driver_313,3,4,AB-81-AB-1925,Diesel,Under Maintenance
+314,Owner_314,Driver_314,3,3,AB-42-AB-8264,Diesel,Under Maintenance
+315,Owner_315,Driver_315,10,1,AB-91-AB-8617,Electric,In Use
+316,Owner_316,Driver_316,9,2,AB-69-AB-3994,Petrol,Under Maintenance
+317,Owner_317,Driver_317,10,1,AB-33-AB-1823,Electric,In Use
+318,Owner_318,Driver_318,3,1,AB-12-AB-9659,Petrol,Under Maintenance
+319,Owner_319,Driver_319,3,5,AB-68-AB-4459,Petrol,Available
+320,Owner_320,Driver_320,7,5,AB-84-AB-4790,Electric,Available
+321,Owner_321,Driver_321,3,5,AB-47-AB-7315,Electric,In Use
+322,Owner_322,Driver_322,3,3,AB-12-AB-1244,Petrol,Under Maintenance
+323,Owner_323,Driver_323,3,5,AB-10-AB-3271,Diesel,In Use
+324,Owner_324,Driver_324,2,3,AB-59-AB-8327,Electric,Available
+325,Owner_325,Driver_325,3,3,AB-94-AB-6895,Diesel,Under Maintenance
+326,Owner_326,Driver_326,4,2,AB-25-AB-8036,Petrol,In Use
+327,Owner_327,Driver_327,1,1,AB-44-AB-7742,Diesel,In Use
+328,Owner_328,Driver_328,5,3,AB-98-AB-1171,Diesel,Available
+329,Owner_329,Driver_329,4,1,AB-32-AB-5663,Petrol,In Use
+330,Owner_330,Driver_330,7,5,AB-49-AB-5014,Petrol,Available
+331,Owner_331,Driver_331,1,5,AB-32-AB-9441,Petrol,In Use
+332,Owner_332,Driver_332,10,3,AB-48-AB-6636,Petrol,Available
+333,Owner_333,Driver_333,9,2,AB-61-AB-9565,Electric,Available
+334,Owner_334,Driver_334,10,4,AB-90-AB-6283,Diesel,Available
+335,Owner_335,Driver_335,10,5,AB-39-AB-3050,Petrol,Available
+336,Owner_336,Driver_336,6,3,AB-83-AB-1301,Electric,Under Maintenance
+337,Owner_337,Driver_337,7,4,AB-33-AB-3713,Petrol,In Use
+338,Owner_338,Driver_338,4,2,AB-93-AB-7754,Electric,In Use
+339,Owner_339,Driver_339,3,4,AB-43-AB-1119,Petrol,Available
+340,Owner_340,Driver_340,4,3,AB-62-AB-1831,Electric,In Use
+341,Owner_341,Driver_341,2,1,AB-46-AB-7498,Diesel,Under Maintenance
+342,Owner_342,Driver_342,6,1,AB-57-AB-9373,Diesel,Under Maintenance
+343,Owner_343,Driver_343,9,4,AB-61-AB-9068,Petrol,In Use
+344,Owner_344,Driver_344,6,5,AB-21-AB-2247,Petrol,In Use
+345,Owner_345,Driver_345,3,4,AB-98-AB-3320,Petrol,Under Maintenance
+346,Owner_346,Driver_346,3,3,AB-71-AB-4940,Diesel,In Use
+347,Owner_347,Driver_347,10,5,AB-67-AB-3736,Electric,Under Maintenance
+348,Owner_348,Driver_348,6,5,AB-54-AB-5014,Electric,In Use
+349,Owner_349,Driver_349,7,4,AB-25-AB-5936,Diesel,Available
+350,Owner_350,Driver_350,7,5,AB-72-AB-1933,Petrol,In Use
+351,Owner_351,Driver_351,9,2,AB-39-AB-2489,Diesel,Under Maintenance
+352,Owner_352,Driver_352,7,5,AB-20-AB-6251,Electric,In Use
+353,Owner_353,Driver_353,8,1,AB-95-AB-8856,Electric,Under Maintenance
+354,Owner_354,Driver_354,2,5,AB-19-AB-1585,Petrol,Under Maintenance
+355,Owner_355,Driver_355,7,2,AB-84-AB-1311,Electric,Under Maintenance
+356,Owner_356,Driver_356,3,1,AB-86-AB-6835,Electric,Under Maintenance
+357,Owner_357,Driver_357,2,1,AB-11-AB-4935,Electric,Available
+358,Owner_358,Driver_358,5,1,AB-40-AB-3012,Electric,Under Maintenance
+359,Owner_359,Driver_359,5,2,AB-77-AB-8115,Electric,Available
+360,Owner_360,Driver_360,1,3,AB-99-AB-1458,Petrol,Available
+361,Owner_361,Driver_361,1,4,AB-40-AB-4067,Petrol,Available
+362,Owner_362,Driver_362,2,5,AB-69-AB-6161,Diesel,Available
+363,Owner_363,Driver_363,6,2,AB-50-AB-4885,Electric,Under Maintenance
+364,Owner_364,Driver_364,8,5,AB-50-AB-2438,Electric,Under Maintenance
+365,Owner_365,Driver_365,6,4,AB-97-AB-8294,Diesel,In Use
+366,Owner_366,Driver_366,4,4,AB-68-AB-2912,Petrol,Available
+367,Owner_367,Driver_367,9,2,AB-96-AB-1084,Diesel,In Use
+368,Owner_368,Driver_368,6,3,AB-53-AB-3148,Petrol,In Use
+369,Owner_369,Driver_369,7,2,AB-10-AB-6261,Petrol,Under Maintenance
+370,Owner_370,Driver_370,10,1,AB-34-AB-5808,Electric,In Use
+371,Owner_371,Driver_371,1,1,AB-26-AB-4061,Electric,Under Maintenance
+372,Owner_372,Driver_372,2,5,AB-27-AB-8526,Petrol,Under Maintenance
+373,Owner_373,Driver_373,5,5,AB-53-AB-6979,Electric,Under Maintenance
+374,Owner_374,Driver_374,1,4,AB-17-AB-8887,Diesel,Under Maintenance
+375,Owner_375,Driver_375,9,5,AB-64-AB-8056,Electric,Available
+376,Owner_376,Driver_376,5,3,AB-86-AB-4393,Diesel,Under Maintenance
+377,Owner_377,Driver_377,10,3,AB-54-AB-6062,Electric,Under Maintenance
+378,Owner_378,Driver_378,9,4,AB-31-AB-5201,Petrol,Available
+379,Owner_379,Driver_379,2,4,AB-24-AB-1377,Electric,In Use
+380,Owner_380,Driver_380,8,3,AB-70-AB-4551,Diesel,Under Maintenance
+381,Owner_381,Driver_381,7,3,AB-21-AB-5349,Diesel,In Use
+382,Owner_382,Driver_382,3,2,AB-29-AB-2926,Petrol,In Use
+383,Owner_383,Driver_383,1,3,AB-50-AB-4042,Petrol,In Use
+384,Owner_384,Driver_384,5,5,AB-93-AB-4086,Diesel,Available
+385,Owner_385,Driver_385,4,4,AB-95-AB-9026,Electric,Available
+386,Owner_386,Driver_386,2,2,AB-45-AB-1479,Electric,Under Maintenance
+387,Owner_387,Driver_387,1,1,AB-85-AB-3472,Petrol,Available
+388,Owner_388,Driver_388,1,4,AB-78-AB-3938,Diesel,In Use
+389,Owner_389,Driver_389,2,1,AB-51-AB-8740,Electric,Under Maintenance
+390,Owner_390,Driver_390,4,2,AB-82-AB-2081,Petrol,In Use
+391,Owner_391,Driver_391,2,5,AB-57-AB-9112,Petrol,Available
+392,Owner_392,Driver_392,10,3,AB-90-AB-2187,Electric,Under Maintenance
+393,Owner_393,Driver_393,10,5,AB-93-AB-8888,Petrol,Available
+394,Owner_394,Driver_394,1,2,AB-52-AB-4916,Electric,Under Maintenance
+395,Owner_395,Driver_395,2,4,AB-35-AB-2153,Electric,In Use
+396,Owner_396,Driver_396,3,5,AB-40-AB-7687,Electric,Available
+397,Owner_397,Driver_397,8,5,AB-84-AB-5322,Petrol,Under Maintenance
+398,Owner_398,Driver_398,9,5,AB-19-AB-1471,Petrol,Under Maintenance
+399,Owner_399,Driver_399,1,3,AB-66-AB-4011,Petrol,In Use
+400,Owner_400,Driver_400,4,3,AB-68-AB-6006,Electric,In Use
+401,Owner_401,Driver_401,9,4,AB-83-AB-4519,Diesel,In Use
+402,Owner_402,Driver_402,1,4,AB-70-AB-1540,Petrol,Under Maintenance
+403,Owner_403,Driver_403,4,4,AB-79-AB-5958,Petrol,Available
+404,Owner_404,Driver_404,4,4,AB-25-AB-7634,Petrol,Under Maintenance
+405,Owner_405,Driver_405,10,3,AB-63-AB-1253,Diesel,Under Maintenance
+406,Owner_406,Driver_406,1,1,AB-83-AB-8595,Electric,Under Maintenance
+407,Owner_407,Driver_407,9,4,AB-71-AB-9892,Petrol,Under Maintenance
+408,Owner_408,Driver_408,2,2,AB-71-AB-4487,Petrol,In Use
+409,Owner_409,Driver_409,9,4,AB-17-AB-7693,Petrol,In Use
+410,Owner_410,Driver_410,2,3,AB-43-AB-2379,Petrol,Available
+411,Owner_411,Driver_411,3,1,AB-49-AB-9422,Electric,In Use
+412,Owner_412,Driver_412,7,4,AB-93-AB-5613,Petrol,Available
+413,Owner_413,Driver_413,2,1,AB-81-AB-6586,Electric,Available
+414,Owner_414,Driver_414,10,1,AB-38-AB-2974,Electric,Available
+415,Owner_415,Driver_415,1,4,AB-76-AB-8790,Diesel,Under Maintenance
+416,Owner_416,Driver_416,3,4,AB-80-AB-9426,Petrol,Under Maintenance
+417,Owner_417,Driver_417,4,5,AB-78-AB-1603,Diesel,Under Maintenance
+418,Owner_418,Driver_418,6,4,AB-95-AB-1567,Electric,In Use
+419,Owner_419,Driver_419,2,4,AB-63-AB-6330,Petrol,Available
+420,Owner_420,Driver_420,6,3,AB-23-AB-2899,Diesel,Available
+421,Owner_421,Driver_421,8,5,AB-81-AB-8820,Diesel,In Use
+422,Owner_422,Driver_422,3,3,AB-73-AB-2418,Diesel,In Use
+423,Owner_423,Driver_423,5,3,AB-81-AB-1938,Electric,In Use
+424,Owner_424,Driver_424,5,5,AB-27-AB-6310,Diesel,Available
+425,Owner_425,Driver_425,10,2,AB-23-AB-5409,Electric,Under Maintenance
+426,Owner_426,Driver_426,9,3,AB-48-AB-6851,Electric,Under Maintenance
+427,Owner_427,Driver_427,2,3,AB-70-AB-5329,Petrol,In Use
+428,Owner_428,Driver_428,10,4,AB-26-AB-3450,Petrol,In Use
+429,Owner_429,Driver_429,7,4,AB-20-AB-5256,Petrol,Under Maintenance
+430,Owner_430,Driver_430,9,5,AB-54-AB-1431,Petrol,Available
+431,Owner_431,Driver_431,10,2,AB-20-AB-8656,Diesel,In Use
+432,Owner_432,Driver_432,9,5,AB-73-AB-5473,Diesel,Under Maintenance
+433,Owner_433,Driver_433,8,4,AB-62-AB-6520,Diesel,In Use
+434,Owner_434,Driver_434,3,4,AB-66-AB-3663,Diesel,In Use
+435,Owner_435,Driver_435,4,5,AB-62-AB-3111,Electric,In Use
+436,Owner_436,Driver_436,5,2,AB-91-AB-5294,Electric,Available
+437,Owner_437,Driver_437,7,2,AB-49-AB-6070,Electric,Under Maintenance
+438,Owner_438,Driver_438,4,2,AB-70-AB-4407,Electric,Available
+439,Owner_439,Driver_439,10,5,AB-80-AB-7610,Petrol,Available
+440,Owner_440,Driver_440,1,4,AB-29-AB-5417,Electric,Available
+441,Owner_441,Driver_441,8,4,AB-40-AB-9971,Diesel,Available
+442,Owner_442,Driver_442,8,3,AB-17-AB-6993,Petrol,Under Maintenance
+443,Owner_443,Driver_443,4,5,AB-99-AB-2166,Petrol,In Use
+444,Owner_444,Driver_444,5,3,AB-96-AB-8905,Petrol,In Use
+445,Owner_445,Driver_445,10,5,AB-61-AB-6535,Diesel,In Use
+446,Owner_446,Driver_446,6,2,AB-88-AB-4259,Diesel,In Use
+447,Owner_447,Driver_447,8,5,AB-45-AB-7898,Diesel,In Use
+448,Owner_448,Driver_448,6,1,AB-56-AB-6496,Petrol,Available
+449,Owner_449,Driver_449,5,1,AB-56-AB-9178,Petrol,Under Maintenance
+450,Owner_450,Driver_450,5,2,AB-10-AB-4548,Electric,Under Maintenance
+451,Owner_451,Driver_451,10,5,AB-66-AB-2218,Electric,Available
+452,Owner_452,Driver_452,9,2,AB-75-AB-5958,Petrol,Under Maintenance
+453,Owner_453,Driver_453,9,1,AB-68-AB-2491,Petrol,Available
+454,Owner_454,Driver_454,2,5,AB-54-AB-9636,Diesel,In Use
+455,Owner_455,Driver_455,2,1,AB-90-AB-4000,Electric,In Use
+456,Owner_456,Driver_456,2,5,AB-94-AB-9859,Petrol,In Use
+457,Owner_457,Driver_457,4,3,AB-10-AB-4107,Electric,Under Maintenance
+458,Owner_458,Driver_458,4,1,AB-96-AB-9348,Diesel,In Use
+459,Owner_459,Driver_459,2,3,AB-10-AB-2560,Electric,Under Maintenance
+460,Owner_460,Driver_460,8,4,AB-91-AB-6612,Electric,Available
+461,Owner_461,Driver_461,5,3,AB-30-AB-4272,Petrol,Available
+462,Owner_462,Driver_462,5,2,AB-47-AB-3732,Diesel,Under Maintenance
+463,Owner_463,Driver_463,1,4,AB-50-AB-9642,Diesel,Under Maintenance
+464,Owner_464,Driver_464,10,3,AB-67-AB-1223,Petrol,Under Maintenance
+465,Owner_465,Driver_465,8,3,AB-64-AB-3474,Electric,Available
+466,Owner_466,Driver_466,5,1,AB-51-AB-2216,Diesel,Under Maintenance
+467,Owner_467,Driver_467,6,3,AB-92-AB-9977,Electric,In Use
+468,Owner_468,Driver_468,10,4,AB-81-AB-7275,Petrol,In Use
+469,Owner_469,Driver_469,3,2,AB-88-AB-5929,Diesel,Available
+470,Owner_470,Driver_470,3,4,AB-46-AB-5906,Petrol,Available
+471,Owner_471,Driver_471,1,4,AB-47-AB-2292,Diesel,In Use
+472,Owner_472,Driver_472,8,1,AB-28-AB-4725,Petrol,Available
+473,Owner_473,Driver_473,2,3,AB-53-AB-5507,Electric,Under Maintenance
+474,Owner_474,Driver_474,1,1,AB-68-AB-8555,Petrol,In Use
+475,Owner_475,Driver_475,1,5,AB-52-AB-1699,Diesel,Under Maintenance
+476,Owner_476,Driver_476,1,4,AB-80-AB-6636,Petrol,Available
+477,Owner_477,Driver_477,10,5,AB-61-AB-2678,Petrol,Available
+478,Owner_478,Driver_478,1,3,AB-40-AB-4533,Diesel,Available
+479,Owner_479,Driver_479,1,3,AB-73-AB-2886,Diesel,In Use
+480,Owner_480,Driver_480,4,4,AB-73-AB-2093,Diesel,Under Maintenance
+481,Owner_481,Driver_481,7,5,AB-85-AB-2355,Diesel,Under Maintenance
+482,Owner_482,Driver_482,1,4,AB-81-AB-2018,Diesel,In Use
+483,Owner_483,Driver_483,9,3,AB-66-AB-3765,Electric,Under Maintenance
+484,Owner_484,Driver_484,10,2,AB-85-AB-4450,Petrol,Under Maintenance
+485,Owner_485,Driver_485,2,1,AB-68-AB-2592,Petrol,Under Maintenance
+486,Owner_486,Driver_486,6,2,AB-24-AB-4038,Electric,Available
+487,Owner_487,Driver_487,7,5,AB-45-AB-3669,Petrol,Under Maintenance
+488,Owner_488,Driver_488,6,1,AB-56-AB-4965,Electric,In Use
+489,Owner_489,Driver_489,3,5,AB-86-AB-8388,Diesel,Available
+490,Owner_490,Driver_490,4,5,AB-39-AB-8115,Petrol,Under Maintenance
+491,Owner_491,Driver_491,4,5,AB-55-AB-4206,Petrol,In Use
+492,Owner_492,Driver_492,9,1,AB-18-AB-2318,Electric,Available
+493,Owner_493,Driver_493,4,3,AB-97-AB-9493,Diesel,In Use
+494,Owner_494,Driver_494,8,1,AB-53-AB-5871,Diesel,In Use
+495,Owner_495,Driver_495,1,4,AB-30-AB-8317,Diesel,Available
+496,Owner_496,Driver_496,8,1,AB-23-AB-9691,Electric,In Use
+497,Owner_497,Driver_497,4,1,AB-43-AB-1905,Electric,Under Maintenance
+498,Owner_498,Driver_498,4,5,AB-79-AB-9117,Diesel,Available
+499,Owner_499,Driver_499,7,5,AB-82-AB-9390,Diesel,Under Maintenance
+500,Owner_500,Driver_500,5,5,AB-95-AB-1502,Petrol,In Use

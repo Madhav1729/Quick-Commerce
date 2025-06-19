@@ -1,0 +1,11 @@
+vehicle_operator_id,Name,PAN,Aadhar,City,Address,Rating
+1,vehicle_operator_1,ABCDE7342F,2283 6197 2438,Ambala,Address_1,2.0
+2,vehicle_operator_2,ABCDE2665F,8781 4379 8924,Bilaspur,Address_2,1.65
+3,vehicle_operator_3,ABCDE6452F,1515 6144 5049,Bhagalpur,Address_3,4.51
+4,vehicle_operator_4,ABCDE4918F,5348 9404 7932,Bhubaneshwar,Address_4,3.66
+5,vehicle_operator_5,ABCDE9463F,4900 7722 1793,Bhavnagar,Address_5,2.3
+6,vehicle_operator_6,ABCDE9123F,1565 7223 3081,Chanda,Address_6,2.47
+7,vehicle_operator_7,ABCDE3228F,6177 2160 2884,Bhopal ,Address_7,4.56
+8,vehicle_operator_8,ABCDE9585F,3533 8998 7169,Bhilwara,Address_8,2.74
+9,vehicle_operator_9,ABCDE9529F,6535 6945 5011,Bhagalpur,Address_9,4.07
+10,vehicle_operator_10,ABCDE4611F,2586 7887 3031,Bhopal ,Address_10,2.34

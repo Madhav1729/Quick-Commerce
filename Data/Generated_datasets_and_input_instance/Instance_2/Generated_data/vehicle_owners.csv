@@ -1,0 +1,11 @@
+vehicle_owner_Id,Name,PAN,Aadhar,City,Address,Rating
+1,vehicle_owner_1,ABCDE3394F,8070 9002 8741,Bamanpuri,Address_1,4.32
+2,vehicle_owner_2,ABCDE6420F,6922 6496 6816,Alappuzha,Address_2,2.88
+3,vehicle_owner_3,ABCDE7337F,6701 4686 9320,Aligarh,Address_3,2.63
+4,vehicle_owner_4,ABCDE1305F,7684 2517 5292,Alipurduar,Address_4,4.47
+5,vehicle_owner_5,ABCDE8593F,5957 7593 6034,Bikaner,Address_5,3.21
+6,vehicle_owner_6,ABCDE2195F,5178 9539 6212,Agra,Address_6,1.04
+7,vehicle_owner_7,ABCDE4457F,7488 3090 9715,Bengaluru,Address_7,3.29
+8,vehicle_owner_8,ABCDE6587F,3434 5244 2222,Bijapur,Address_8,4.09
+9,vehicle_owner_9,ABCDE9830F,2149 3180 9935,Bhagalpur,Address_9,2.02
+10,vehicle_owner_10,ABCDE6937F,5218 2961 2005,Asansol,Address_10,4.64
